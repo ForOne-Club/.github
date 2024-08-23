@@ -11,7 +11,7 @@
 * **加入我们的 QQ 群：** [574904188](https://qm.qq.com/q/wuEK5NQPmg)
 * **关注我们的 [其他平台，例如 Bilibili, Github 等]：** [请在此处填写相关链接]
 * **提交您的想法和建议：** [请在此处填写相关链接，例如 Github Issues 页面]
-* **学习 TModLoader 模组制作：** [请在此处填写相关教程链接]
+* **学习 TModLoader 模组制作：** [裙中世界](fs49.org)
 
 ## 👩‍💻 有用资源
 
